@@ -1,4 +1,5 @@
 rootProject.name = 'cloud'
 include 'service-alpha'
+
 include 'service-bravo'
 include 'service-discovery'
